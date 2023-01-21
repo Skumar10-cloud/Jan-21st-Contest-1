@@ -1,0 +1,96 @@
+*{
+    position: relative;
+    height: 250px;
+}
+
+h1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 43px;
+    margin-left: 65px;
+}
+
+.kdr{
+    position: absolute;
+width: 634px;
+height: 500px;
+left: 67px;
+top: 100px;
+}
+
+.img1{
+    position: absolute;
+    top: 100px;
+    left: 740px;
+}
+.smnth{
+    position: absolute;
+width: 250px;
+height: 231px;
+left: 300px;
+/* top: 75px; */
+}
+
+.akdhm{
+    position: absolute;
+width: 250px;
+height: 231px;
+left: 5px;
+/* top: 75px; */
+}
+
+.img2{
+    position: absolute;
+    top: 378px;
+    left: 740px;
+}
+
+.kshi{
+    position: absolute;
+    width: 250px;
+    height: 222px;
+    left: 300px;
+}
+.gldn{
+    position: absolute;
+    width: 250px;
+    height: 222px;
+    left: 5px;
+}
+
+.img3{
+    display: flex;
+    position: absolute;
+    top: 650px;
+    left: 67px;
+    justify-content: space-between;
+    /* left: 500px; */
+}
+
+.lraj{
+    width: 634px;
+    height: 188px;
+}
+
+.img-4 .stupa{
+    width: 553px;
+    height: 188px;
+    position: absolute;
+    left: 45px;
+    z-index: 3;
+}
+
+h3{
+    position: absolute;
+width: 276px;
+height: 49px;
+left: 335px;
+top: 92px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 42px;
+line-height: 51px;
+z-index: 5;
+}
